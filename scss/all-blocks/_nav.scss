@@ -1,0 +1,46 @@
+nav ul {
+    display: flex;
+    gap: 60px;
+    margin-left: 100px;
+    padding-top: 35px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a:hover {
+    // text-decoration: none;
+    // font-size: 18px;
+    color: aqua;
+}
+
+nav ol {
+    display: flex;
+    gap: 100px;
+    margin-left: 100px;
+    padding-top: 35px;
+}
+
+nav ol li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+}
+
+nav ol li {
+    list-style: none;
+}
+
+nav ol li a:hover {
+    // text-decoration: none;
+    // font-size: 18px;
+    color: orange;
+}
+

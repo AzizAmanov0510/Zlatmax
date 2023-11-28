@@ -1,0 +1,20 @@
+.first {
+    width: 1510px;
+    height: 100px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.first > img {
+    margin-left: 1200px;
+    margin-top: -120px;
+    position: relative;
+    top: -10px;
+}
+
+.first > p {
+    margin-left: 1230px;
+    margin-top: -40px;
+    color: #fff;
+    font-size: 18px;
+}

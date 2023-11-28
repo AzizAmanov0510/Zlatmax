@@ -1,0 +1,30 @@
+.Наши {
+    display: flex;
+    gap: 20px;
+}
+
+.Наши li {
+    width: 305px;
+    height: 350px;
+    list-style: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+      img {
+        width: 305px;
+      }
+       h2 {
+        font-size: 20px;
+        margin-left: 20px;
+        font-weight: bold;
+        line-height: 25px;
+       }
+
+       p {
+        color: dimgray;
+        margin-left: 20px;
+        font-size: 20px;
+       }
+}
+
+
+
